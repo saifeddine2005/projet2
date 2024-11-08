@@ -1,0 +1,39 @@
+li {
+    display: inline;
+    list-style-type: none;
+    
+    font-size: 25px;
+    padding: 10px;
+}
+ul {
+    text-align: right;
+    
+}
+h1 {
+    text-shadow: 5px 5px 5px orange;
+    font-size: 50px;
+}
+.menu {
+    color: black;
+    
+}
+img {
+    border-radius: 25px;
+}
+input {
+    border-radius: 35px;
+    width: 30%;
+   
+}
+.menu1 {
+    position: fixed;
+    background-color: orange;
+    width: 100%;
+
+}
+.mn {
+    text-align:right;
+    
+
+}
+
